@@ -1,0 +1,18 @@
+.nav-link:hover {
+    background-color: grey;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover .fa {
+    transition: all 1s;
+    transform: rotate(360deg);
+}
+
+.activo {
+    background-color: grey !important
+}
+
