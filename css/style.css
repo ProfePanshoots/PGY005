@@ -16,3 +16,21 @@
     background-color: grey !important
 }
 
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.perfil {
+    background-image: url("../img/cosmos-universo.gif");
+    background-size: cover;
+}
+
+hr {
+    color: white;
+}
+
+.color-izq {
+    background-color: rgb(95, 95, 95);
+}
